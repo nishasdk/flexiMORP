@@ -39,11 +39,11 @@
 ***
 ***  <p align="center">
 ***    Flexible multi-use offshore renewable energy platform
--->
+
     <br />
   </p>
 </div>
-
+-->
 
 
 <!-- TABLE OF CONTENTS -->
