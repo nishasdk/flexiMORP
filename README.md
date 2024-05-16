@@ -34,11 +34,12 @@
     <img src="images/full-logo.png" alt="Logo" width="750" height="200">
   </a>
 
-
+<!--
 *** <h3 align="center">flexi-MORP</h3>
 ***
 ***  <p align="center">
 ***    Flexible multi-use offshore renewable energy platform
+-->
     <br />
   </p>
 </div>
