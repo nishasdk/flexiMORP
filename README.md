@@ -18,21 +18,25 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 
-*** [![Contributors][contributors-shield]][contributors-url]
-*** [![Forks][forks-shield]][forks-url]
-*** [![Stargazers][stars-shield]][stars-url]
-*** [![Issues][issues-shield]][issues-url]
-*** [![MIT License][license-shield]][license-url]
-*** [![LinkedIn][linkedin-shield]][linkedin-url]
 -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/nishasdk/flexiMORP">
+  <!-- <a href="https://github.com/nishasdk/flexiMORP">
     <img src="images/full-logo.png" alt="Logo" width="750" height="200">
-  </a>
+  </a> -->
+
+  [![Product Name Screen Shot][logo]](https://fleximorp.com/)
+
 
 <!--
 *** <h3 align="center">flexi-MORP</h3>
@@ -48,30 +52,30 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+
+## Table of Contents
+<ol>
+  <li>
+    <a href="#about-the-project">About The Project</a>
+    <ul>
+      <li><a href="#built-with">Built With</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="#getting-started">Getting Started</a>
+    <ul>
+      <li><a href="#prerequisites">Prerequisites</a></li>
+      <li><a href="#installation">Installation</a></li>
+    </ul>
+  </li>
+  <li><a href="#usage">Usage</a></li>
+  <li><a href="#roadmap">Roadmap</a></li>
+  <li><a href="#contributing">Contributing</a></li>
+  <li><a href="#license">License</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#acknowledgments">Acknowledgments</a></li>
+</ol>
+
 
 
 <!-- ABOUT THE PROJECT -->
@@ -85,40 +89,38 @@
 
 ### Built With
 
-💌 love 🤗
-<!--
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
--->
+
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
- 🚧 Coming soon 🚧
+### 🚧 Coming soon 🚧
 
 ### Prerequisites
-
+<!-- 
 List of prerequisites and installation guide  🚧 Coming soon 🚧
 
 * npm
   ```sh
   npm install npm@latest -g
-  ```
+  ``` -->
 
 ### Installation
 
- 🚧 Coming soon 🚧
+
  
-1. Get a free API Key at [https://fleximorp.com/api](https://fleximorp.com/coming-soon)
+<!-- 1. Get a free API Key at [https://fleximorp.com/api](https://fleximorp.com/coming-soon)
 2. Clone the repo
    ```sh
    git clone https://github.com/nishasdk/flexiMORP.git
@@ -132,19 +134,19 @@ List of prerequisites and installation guide  🚧 Coming soon 🚧
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
- 🚧 Coming soon 🚧
-Examples of how a project can be used.
-Additional screenshot.
-Code examples and demos.
+### 🚧 Coming soon 🚧
+- Examples of how a project can be used.
+- Additional screenshot.
+- Code examples and demos.
 
-Link to more resources.
+- Link to more resources.
 
 _For more examples, please refer to the [Documentation](https://fleximorp.com/coming-soon)_
 
@@ -154,15 +156,15 @@ _For more examples, please refer to the [Documentation](https://fleximorp.com/co
 
 <!-- ROADMAP -->
 ## Roadmap
-
- 🚧 Coming soon 🚧
  
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Initial Set up and Running
+- [ ] Back-End Program
+    - [ ] Deterministic
+    - [ ] Under uncertainty
+- [ ] Interactive Program
+    - [ ] Website Availability
 
-<!-- See the [open issues](https://github.com/nishasdk/flexiMORP/issues) for a full list of proposed features (and known issues). -->
+See the [open issues](https://github.com/nishasdk/flexiMORP/issues) tab for a full list of proposed features (and known issues). 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,9 +211,20 @@ Project Link: [http://fleximorp.com](http://fleximorp.com)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Dr.Michel-Alexandre Cardin]()
-* [Dr. Cesare Caputo]()
-* [Dr. Ryan O'Shea]()
+### Supervisors
+
+[Dr.Michel-Alexandre Cardin](https://www.imperial.ac.uk/people/m.cardin)
+
+[Dr. Ryan O'Shea](https://www.imperial.ac.uk/people/ryan.oshea18)
+
+### Research Group
+
+[Dr. Cesare Caputo](https://github.com/Cesare-Caputo)
+
+[Mr. Luka Malone](https://www.linkedin.com/in/lukamalone/)
+
+[Mr. Kosuke Ikeya](https://www.imperial.ac.uk/people/k.ikeya22)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -248,3 +261,5 @@ Project Link: [http://fleximorp.com](http://fleximorp.com)
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[logo]: https://i0.wp.com/fleximorp.com/wp-content/uploads/2024/05/Screenshot-2024-05-15-at-13.58.22-1.png?w=1312&ssl=1
+[VSC-url]: (https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
