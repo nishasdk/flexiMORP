@@ -31,9 +31,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/nishasdk/flexiMORP">
-    <img src="images/icon-logo.png" alt="Logo" width="150" height="150">
+    <img src="images/full-logo.png" alt="Logo" width="150" height="150">
   </a>
 
+<!--
 <h3 align="center">flexi-MORP</h3>
 
   <p align="center">
@@ -41,7 +42,7 @@
     <br />
   </p>
 </div>
-
+-->
 
 
 <!-- TABLE OF CONTENTS -->
