@@ -35,8 +35,11 @@
     <img src="images/full-logo.png" alt="Logo" width="750" height="200">
   </a> -->
 
-  [![Product Name Screen Shot][logo]](https://fleximorp.com/)
+<!-- [![Product Name Screen Shot][logo]](https://fleximorp.com/) -->
 
+  <a href="https://github.com/nishasdk/flexiMORP">
+      <img src="images/icon-logo.png" alt="Logo" width="200" height="">
+    </a>
 
 <!--
 *** <h3 align="center">flexi-MORP</h3>
@@ -47,7 +50,7 @@
     <br />
   </p>
 -->
-
+<br /> <br>
 </div>
 
 
@@ -200,9 +203,13 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Nisha Saduagkan - [Linktree](https://linktr.ee/nsaduagkan) / nisha.saduagkan@imperial.ac.uk
+Linktree: 
 
-Project Link: [http://fleximorp.com](http://fleximorp.com)
+[Contact information](https://linktr.ee/nsaduagkan)
+
+Or email:
+
+hello@fleximorp.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,6 +235,14 @@ Project Link: [http://fleximorp.com](http://fleximorp.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<br /> <br> <br /><br>
+
+<p align="center">
+  <a href="mailto:hello@fleximorp.com">
+    <img src="images/full-logo.png" alt="Logo" width="300" height="">
+  </a>
+
+  </p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
