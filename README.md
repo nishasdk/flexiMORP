@@ -78,7 +78,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://fleximorp.com/wp-content/uploads/2024/05/Screenshot-2024-05-16-at-00.23.00.png)
+[![Product Name Screen Shot][product-screenshot]](https://fleximorp.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -210,9 +210,9 @@ Project Link: [http://fleximorp.com](http://fleximorp.com)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Dr.Michel-Alexandre Cardin]()
+* [Dr. Cesare Caputo]()
+* [Dr. Ryan O'Shea]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
