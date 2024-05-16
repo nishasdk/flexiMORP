@@ -44,7 +44,7 @@
   </p>
 -->
 
-
+</div>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -73,7 +73,6 @@
   </ol>
 </details>
 
-</div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
