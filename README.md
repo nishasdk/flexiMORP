@@ -43,12 +43,12 @@
     <br />
   </p>
 -->
-</div>
+
 
 
 
 <!-- TABLE OF CONTENTS -->
-<details?
+<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -73,7 +73,7 @@
   </ol>
 </details>
 
-
+</div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
