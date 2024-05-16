@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/nishasdk/flexiMORP">
-    <img src="images/full-logo.png" alt="Logo" width="1312" height="338">
+    <img src="images/full-logo.png" alt="Logo" width="800" height="338">
   </a>
 
 
