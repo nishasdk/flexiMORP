@@ -31,14 +31,14 @@
 <br />
 <div align="center">
   <a href="https://github.com/nishasdk/flexiMORP">
-    <img src="images/full-logo.png" alt="Logo" width="760" height="200">
+    <img src="images/full-logo.png" alt="Logo" width="750" height="200">
   </a>
 
 
-<h3 align="center">flexi-MORP</h3>
-
-  <p align="center">
-    Flexible multi-use offshore renewable energy platform
+*** <h3 align="center">flexi-MORP</h3>
+***
+***  <p align="center">
+***    Flexible multi-use offshore renewable energy platform
     <br />
   </p>
 </div>
