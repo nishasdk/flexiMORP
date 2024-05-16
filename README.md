@@ -118,7 +118,7 @@ List of prerequisites and installation guide  🚧 Coming soon 🚧
 
  🚧 Coming soon 🚧
  
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://fleximorp.com/api](https://fleximorp.com/coming-soon)
 2. Clone the repo
    ```sh
    git clone https://github.com/nishasdk/flexiMORP.git
@@ -146,7 +146,7 @@ Code examples and demos.
 
 Link to more resources.
 
-_For more examples, please refer to the [Documentation](https://fleximorp.com/about)_
+_For more examples, please refer to the [Documentation](https://fleximorp.com/coming-soon)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
