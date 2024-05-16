@@ -142,11 +142,11 @@ List of prerequisites and installation guide  🚧 Coming soon 🚧
 ## Usage
 
 ### 🚧 Coming soon 🚧
-- Examples of how a project can be used.
-- Additional screenshot.
+- Examples of how the project can be used.
+- Additional screenshots.
 - Code examples and demos.
 
-- Link to more resources.
+- Links to more resources.
 
 _For more examples, please refer to the [Documentation](https://fleximorp.com/coming-soon)_
 
@@ -157,7 +157,7 @@ _For more examples, please refer to the [Documentation](https://fleximorp.com/co
 <!-- ROADMAP -->
 ## Roadmap
  
-- [ ] Initial Set up and Running
+- [ x ] Initial Set up and Running
 - [ ] Back-End Program
     - [ ] Deterministic
     - [ ] Under uncertainty
