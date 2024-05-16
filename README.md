@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/nishasdk/flexiMORP">
-    <img src="images/icon-logo.png" alt="Logo" width="80" height="80">
+    <img src="images/icon-logo.png" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">flexi-MORP</h3>
@@ -75,9 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `nishasdk`, `flexiMORP`, ``, `nsaduagkan`, `fleximorp`, `help`, `flexi-MORP`, `Flexible multi-use offshore renewable energy platform`
+[![Product Name Screen Shot][product-screenshot]](https://fleximorp.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,9 +196,9 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Nisha Saduagkan - [Contant information](https://linktr.ee/nsaduagkan) - help@fleximorp.com
+Nisha Saduagkan - [Linktree](https://linktr.ee/nsaduagkan)
 
-Project Link: [https://github.com/nishasdk/flexiMORP](https://github.com/nishasdk/flexiMORP)
+Project Link: [http://fleximorp.com](http://fleximorp.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
