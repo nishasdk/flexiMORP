@@ -198,7 +198,7 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Nisha Saduagkan - [Linktree](https://linktr.ee/nsaduagkan)
+Nisha Saduagkan - [Linktree](https://linktr.ee/nsaduagkan) / ns1916@ic.ac.uk
 
 Project Link: [http://fleximorp.com](http://fleximorp.com)
 
