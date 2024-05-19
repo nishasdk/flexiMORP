@@ -160,7 +160,7 @@ _For more examples, please refer to the [Documentation](https://fleximorp.com/co
 <!-- ROADMAP -->
 ## Roadmap
  
-- [ x ] Initial Set up and Running
+- [x] Initial Set up and Running
 - [ ] Back-End Program
     - [ ] Deterministic
     - [ ] Under uncertainty
