@@ -218,13 +218,11 @@ hello@fleximorp.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-### Supervisors
+### Special thanks to
 
 [Dr.Michel-Alexandre Cardin](https://www.imperial.ac.uk/people/m.cardin)
 
 [Dr. Ryan O'Shea](https://www.imperial.ac.uk/people/ryan.oshea18)
-
-### Research Group
 
 [Dr. Cesare Caputo](https://github.com/Cesare-Caputo)
 
